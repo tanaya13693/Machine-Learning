@@ -1,2 +1,7 @@
 
 Week1:
+
+Gradient Descent:
+Machine learning algorithm.
+Gradient descent is guaranteed to find the global minimum for any function J(theta0, theta1)
+
